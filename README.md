@@ -1,4 +1,4 @@
-🎯 Client Mood Tracker - Full Stack Application
+###🎯 Client Mood Tracker - Full Stack Application
 A comprehensive full-stack mood tracking application with Web, Mobile, and Backend components. Track your emotions, receive smart suggestions, and monitor your mental health trends with beautiful, responsive interfaces across all devices.
 
 🌟 Features
@@ -20,37 +20,7 @@ Advanced Features
 ⚡ Fast & Optimized - Efficient code with minimal dependencies
 📱 Native Mobile - React Native with Expo for iOS & Android
 
-🏗️ Project Structure
-Client Mood Tracker app/
-├── backend/              # Node.js + Express + MongoDB API
-│   ├── src/
-│   │   ├── models/       # User & Mood schemas
-│   │   ├── controllers/  # Business logic
-│   │   ├── routes/       # API endpoints
-│   │   ├── middleware/   # JWT authentication
-│   │   ├── utils/        # Suggestions logic
-│   │   └── config/       # Database config
-│   └── README.md
-│
-├── web/                  # React.js web application
-│   ├── src/
-│   │   ├── pages/        # Login, Dashboard, History, etc.
-│   │   ├── components/   # Reusable UI components
-│   │   ├── context/      # Auth context
-│   │   ├── services/     # API integration
-│   │   └── styles/       # CSS styling
-│   └── README.md
-│
-├── mobile/               # React Native + Expo mobile app
-│   ├── src/
-│   │   ├── screens/      # Login, Dashboard, History, Profile
-│   │   ├── context/      # Auth context
-│   │   ├── services/     # API integration
-│   │   └── styles/       # Colors & typography
-│   ├── App.js            # Navigation & app setup
-│   └── README.md
-│
-└── README.md            # This file
+
 🚀 Quick Start
 Prerequisites
 Node.js v14+ & npm
