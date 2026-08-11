@@ -63,10 +63,6 @@ PUT    /api/moods/:id
 DELETE /api/moods/:id
 ```
 
-## 👨‍💻 Team
-
-**Group 6 – Client Mood Tracker Team**
-
 ## 📄 License
 
 MIT License
