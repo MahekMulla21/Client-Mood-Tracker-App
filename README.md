@@ -62,6 +62,13 @@ GET    /api/moods/stats
 PUT    /api/moods/:id
 DELETE /api/moods/:id
 ```
+### 📚 Documentation
+
+Individual component documentation:
+
+Backend: backend/README.md
+Web: web/README.md
+Mobile: mobile/README.md
 
 ## 📄 License
 
